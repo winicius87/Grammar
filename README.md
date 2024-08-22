@@ -1,6 +1,10 @@
 This grammar check server uses link-parser (https://manpages.ubuntu.com/manpages/trusty/man1/link-parser.1.html) found in Ubuntu.
 
-First, change the form action from /g/ to /.
+
+First, install link-grammar on Ubuntu.
+apt install link-grammar
+
+Then, change the form action from /g/ to /.
 
 To load it, type:
 ./gram.py &
