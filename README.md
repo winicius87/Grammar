@@ -14,4 +14,4 @@ This HTTP server is written in Python.
 
 It is light weight. Files are served from ./_public/
 
-![Screenshot](https://isellemails.com/MediaLight/XEhA2/LEBAteNO88.jpg)
+![Screenshot](https://isellemails.com/MediaLight/XEhA2/LEBAteNO88.jpg/raw)
