@@ -27,7 +27,7 @@ class MyTCPHandler(socketserver.StreamRequestHandler):
         path = aa[1]
         path=path.strip(b'/')
         if re.search(b"_public", path) != None:
-            if path == b'/g/_public':
+            if path == b'_public':
                 path=b'_public/index.html'
             
             #path=re.sub(b'/', path)
